@@ -5,5 +5,10 @@ This Denial Of Service Attack Script is Coded With Python2. It Is Very Simple To
 Coder: Kuzey Ceylan
 
 Usage Commands:
-
-  coming soon...
+  
+  python2 blood-DoS.py
+  
+  then use it as you want. But Please Don't Play With Files.
+  
+ 
+ 

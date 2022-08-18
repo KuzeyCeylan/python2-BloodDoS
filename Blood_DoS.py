@@ -1,3 +1,6 @@
+#Coded By Kuzey Ceylan
+#Tr Lisans: Bu Kodun Kuzey Ceylan GitHub Hesabının Dışında Herhangi Bir Yerde Paylaşılır İse Dava İle Uzlaşma Aranacaktır.
+
 import socket
 
 
